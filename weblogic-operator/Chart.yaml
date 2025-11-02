@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: 4.3.3
+description: Helm chart for deploying the WebLogic Kubernetes Operator using a custom base image.
+name: weblogic-operator
+type: application
+version: 4.3.3
