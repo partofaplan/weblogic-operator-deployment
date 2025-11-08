@@ -59,7 +59,7 @@ enableClusterRoleBinding: true
 
 # image specifies the container image containing the operator.
 # Defaults to the latest GA release published by the WebLogic Operator team.
-image: "ghcr.io/oracle/weblogic-kubernetes-operator:4.3.3"
+image: "ghcr.io/oracle/weblogic-kubernetes-operator:4.3.4"
 
 # imagePullPolicy specifies the image pull policy for the operator's container image.
 imagePullPolicy: IfNotPresent
